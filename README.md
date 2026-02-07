@@ -1,2 +1,10 @@
-# Deployment-of-GenAI-apps
-Deployment of GenAI apps using Streamlit Cloud and HuggingFace Spaces
+# Streamlit-Cloud-Chatbot
+Deployment of GenAI apps using Streamlit Cloud 
+
+![demo](<Streamlit Cloud/images/image.png>)
+
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute.
